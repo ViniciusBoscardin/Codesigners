@@ -991,7 +991,7 @@ label {
   }
 
   .jl-home-presentation {
-    background-image: url('../Images/joao-lemon-designer-home.png');
+    background-image: url('./Images/joao-lemon-designer-home.png');
     background-repeat: no-repeat;
     background-position: 50% bottom;
     position: relative;
