@@ -426,7 +426,7 @@ label {
     height: 45px;
     display: block;
     background-color: #2ccb69;
-    background-image: url('../images/icon-contact-close.svg');
+    background-image: url('../Images/icon-contact-close.svg');
     background-repeat: no-repeat;
     position: fixed;
     bottom: 45px;
@@ -991,7 +991,7 @@ label {
   }
 
   .jl-home-presentation {
-    background-image: url(../images/joao-lemon-designer-home.png);
+    background-image: url(../Images/joao-lemon-designer-home.png);
     background-repeat: no-repeat;
     background-position: 50% bottom;
     position: relative;
